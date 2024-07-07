@@ -1,0 +1,7 @@
+*secrets.txt
+venv/
+chunks_prompts_assignments.txt
+CodeQuest.log
+src/modules/TextExtraction/__pycache__/*
+src/modules/LLMs/__pycache__/*
+src/modules/__pycache__/*
